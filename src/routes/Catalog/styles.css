@@ -11,7 +11,7 @@
 }
 
 .ct-search-bar-container {
-    margin: 40px 0;
+    margin-bottom: 40px;
 }
 
 @media (min-width: 576px) {
